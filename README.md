@@ -13,7 +13,7 @@
 
 5.In the main program:
 
-**Set the file_path variable to the path of the input text file.
+Set the file_path variable to the path of the input text file.
 Read the text from the file using the read_text_file() function.
 Tokenize the text into sentences using the sent_tokenize() function from the nltk library.
 Initialize an empty list all_verbs to store all identified verbs.

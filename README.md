@@ -12,6 +12,7 @@
 4.Define a function read_text_file(file_path) to read text from a file and return the content as a string.
 
 5.In the main program:
+
 **Set the file_path variable to the path of the input text file.
 Read the text from the file using the read_text_file() function.
 Tokenize the text into sentences using the sent_tokenize() function from the nltk library.

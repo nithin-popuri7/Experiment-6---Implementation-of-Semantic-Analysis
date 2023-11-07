@@ -85,7 +85,7 @@ if __name__ == '__main__':
 ```
 ### OUTPUT:
 
-![Exp 08](https://github.com/nithin-popuri7/Experiment-6---Implementation-of-Semantic-Analysis/assets/94154780/79ea4528-44e8-4610-8d66-601011521df5)
+![image](https://github.com/nithin-popuri7/Experiment-6---Implementation-of-Semantic-Analysis/assets/94154780/a1067413-7f11-4a16-a0cc-2803fffbf21f)
 
 
 ### RESULT:

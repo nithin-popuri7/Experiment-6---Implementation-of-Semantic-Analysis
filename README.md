@@ -1,8 +1,8 @@
-Experiment-6---Implementation-of-Semantic-Analysis
-Aim :
+# Experiment-6---Implementation-of-Semantic-Analysis
+### Aim :
 Construct a python program to read a text from a file.Identify the verbs from the text file and provide synonyms for all verbs using Natutal Language Processing
 
-Algorithm:
+### Algorithm:
 Import the necessary libraries: nltk and wordnet.
 Define a function get_verbs(sentence) to identify verbs in a given sentence using part-of-speech tagging.
 Define a function get_synonyms(word) to get synonyms for a given word using the WordNet corpus.
@@ -19,7 +19,13 @@ Append the identified verbs to the all_verbs list.
 For each verb, call the get_synonyms() function to get its synonyms and store them in the synonyms_dict dictionary.
 Print the verbs and their synonyms.
 Execute the main program.
-PROGRAM
+
+### PROGRAM
+```
+Developed By:P.SIva Naga Nithin
+Reg.No:212221240037
+```
+```
 import nltk
 from nltk.corpus import wordnet
 
@@ -76,7 +82,9 @@ def main():
 
 if __name__ == '__main__':
     main()
-OUTPUT
+```
+### OUTPUT:
+
 Verb	Synonyms
 was	Washington, Evergreen_State, WA, be, be, be, exist, be, be, equal, be, constitute, represent, make_up, comprise, be, be, follow, embody, be, personify, be, be, live, be, cost, be
 named	name, call, name, identify, name, nominate, make, appoint, name, nominate, constitute, name, mention, advert, bring_up, cite, name, refer, identify, discover, key, key_out, distinguish, describe, name, list, name, diagnose, name
@@ -125,32 +133,8 @@ explored	research, search, explore, explore, explore, explore
 tell	Tell, William_Tell, state, say, tell, tell, tell, narrate, recount, recite, order, tell, enjoin, say, tell, assure, tell, tell, evidence, distinguish, separate, differentiate, secern, secernate, severalize, severalise, tell, tell_apart
 create	make, create, create, create, create, create, make, produce, make, create
 show	show, display, show, show, appearance, show, show, demo, exhibit, present, demonstrate, prove, demonstrate, establish, show, shew, testify, bear_witness, prove, evidence, show, show, picture, depict, render, show, express, show, evince, indicate, point, designate, show, show, show_up, read, register, show, record, show, usher, show, show
-RESULT
+
+### RESULT:
+
 Thus, we have successfully implemented a program for Natural Language Processing.
 
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 109 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
